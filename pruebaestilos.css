@@ -1,0 +1,15 @@
+.container{
+    background:red;
+}
+.Titulos{
+    background-color: white;
+}
+.body{
+    background-color: gray;
+}
+div h1{
+    color: gray;
+}
+.container img{
+    width: 20%;
+}
