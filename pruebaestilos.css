@@ -1,3 +1,6 @@
+.heading{
+    background-color: green;
+}
 body{
     background: rgb(64, 148, 64);
 }
@@ -13,7 +16,4 @@ div h1{
 div h4{
     color: green;
     text-align: left;
-}
-.container img{
-    width: 20%;
 }
