@@ -1,14 +1,18 @@
+body{
+    background: rgb(64, 148, 64);
+}
 .container{
-    background:red;
+    background:#f0544f;
 }
 .Titulos{
     background-color: white;
 }
-.body{
-    background-color: gray;
-}
 div h1{
     color: gray;
+}
+div h4{
+    color: green;
+    text-align: left;
 }
 .container img{
     width: 20%;
